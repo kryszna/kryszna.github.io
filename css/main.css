@@ -2305,7 +2305,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #4dffd7;
+  background: #ffffc9;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3788,9 +3788,6 @@ pre {
   .posts-expand .post-title {
     font-size: 20px;
   }
-}
-.posts-expand .post-title-link::before {
-  background-image: linear-gradient(90deg, #a166ab 0%, #ef4e7b 25%, #f37055 50%, #ef4e7b 75%, #a166ab 100%);
 }
 .posts-expand .post-title-link:hover {
   -webkit-transform: scale(1.1);
