@@ -3,10 +3,10 @@
   /* code */
   var initCopyCode = function(){
     var copyHtml = '';
-    copyHtml += '<button class="btn-copy" data-clipboard-snippet="">';
+    copyHtml += '';
     //fa fa-globe可以去字体库替换自己想要的图标
-    copyHtml += '  <i class="fa fa-clipboard"></i><span>复制</span>';
-    copyHtml += '</button>';
+    copyHtml += '  <i class="fa fa-clipboard"></i>';
+    copyHtml += '';
     $(".highlight .code pre").before(copyHtml);
     new ClipboardJS('.btn-copy', {
       target: function(trigger) {
