@@ -1932,7 +1932,6 @@ pre .javascript .function {
   bottom: 0;
   width: 0;
   z-index: 1040;
-  box-shadow: inset 0 2px 6px #000;
   background: #222;
   -webkit-transform: translateZ(0);
 }
@@ -2305,7 +2304,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffe59c;
+  background: #ff5ec8;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -4024,7 +4023,7 @@ span.focus-links:hover {
 .sidebar {
   margin-left: auto; /* for IE */
   margin-left: inherit;
-  box-shadow: inset 2px 2px 40px #bdb2b2;
+  background-image: linear-gradient(-235deg, #4caf50 0%, #f9f9fa 50%, #4caf50 100%);
 }
 .sidebar a {
   color: #649ab6;
