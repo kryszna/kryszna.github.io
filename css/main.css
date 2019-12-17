@@ -2305,7 +2305,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #181dff;
+  background: #4dffd7;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3779,9 +3779,10 @@ pre {
   font-size: 15px;
 }
 .posts-expand .post-title {
-  font-size: 28px;
-  letter-spacing: 1px;
+  font-size: 18px;
   font-weight: 700;
+  line-height: 1.5;
+  color: #333;
 }
 @media (max-width: 767px) {
   .posts-expand .post-title {
