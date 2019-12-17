@@ -5,7 +5,7 @@
     var copyHtml = '';
     copyHtml += '';
     //fa fa-globe可以去字体库替换自己想要的图标
-    copyHtml += '  <i class="fa fa-clipboard"></i>';
+    copyHtml += '  <span><i class="fa fa-clipboard"></i></span>';
     copyHtml += '';
     $(".highlight .code pre").before(copyHtml);
     new ClipboardJS('.btn-copy', {
