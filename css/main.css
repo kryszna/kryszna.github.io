@@ -506,7 +506,7 @@ body {
   line-height: 28px;
   background-image: linear-gradient(-90deg, #4caf50 0%, #03a9f4 100%);
   color: #fff;
-  font-size: 16px;
+  font-size: 12px;
   top: 0;
   left: 0;
   width: 100%;
@@ -2305,7 +2305,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff0dff;
+  background: #a3969d;
 }
 .links-of-blogroll {
   font-size: 13px;
