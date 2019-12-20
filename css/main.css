@@ -2301,7 +2301,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffff40;
+  background: #af4433;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3118,6 +3118,11 @@ hr {
 }
 .main-inner {
   margin-top: 32px;
+}
+@media (max-width: 767px) {
+  .main-inner {
+    margin-top: 0;
+  }
 }
 .header-inner {
   padding: 16px 0 8px;
