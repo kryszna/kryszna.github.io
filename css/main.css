@@ -2301,7 +2301,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #2b6073;
+  background: #6fa4ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3205,7 +3205,7 @@ hr {
   display: none;
 }
 .site-nav-toggle {
-  position: static;
+  position: fixed;
   float: right;
 }
 .menu {
@@ -3983,11 +3983,6 @@ span.focus-links:hover {
 .site-meta {
   margin-left: 0px;
   text-align: center;
-}
-@media (max-width: 767px) {
-  .site-meta {
-    background-image: linear-gradient(90deg, #f79533 0, #f37055 15%, #ef4e7b 30%, #a166ab 44%, #5073b8 58%, #1098ad 72%, #07b39b 86%, #6dba82 100%) !important;
-  }
 }
 .site-meta .site-title {
   font-size: 28px;
