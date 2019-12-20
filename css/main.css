@@ -2301,7 +2301,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #6fa4ff;
+  background: #9857b4;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -4266,7 +4266,6 @@ a {
 @media (max-width: 767px) {
   .header-inner {
     margin-bottom: 10px !important;
-    background: none;
   }
   .posts-expand .post-body h1 {
     padding-top: 20px;
