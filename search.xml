@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello Word</title>
+    <url>/helloword/</url>
+    <content><![CDATA[<p>欢迎使用Hexo。这是系统自动生成的演示文章。编辑或者删除它，  然后开始您的博客！</p>
+]]></content>
+      <categories>
+        <category>创作类</category>
+      </categories>
+      <tags>
+        <tag>hello world</tag>
+      </tags>
+  </entry>
+</search>

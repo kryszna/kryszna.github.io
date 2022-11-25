@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>白云苍狗</title>
+  
+  <subtitle>白云苍狗的小站</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.imalun.com/"/>
+  <updated>2022-11-25T10:15:31.789Z</updated>
+  <id>https://www.imalun.com/</id>
+  
+  <author>
+    <name>白云苍狗</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello Word</title>
+    <link href="https://www.imalun.com/helloword/"/>
+    <id>https://www.imalun.com/helloword/</id>
+    <published>2019-11-19T02:16:09.000Z</published>
+    <updated>2022-11-25T10:15:31.789Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;欢迎使用Hexo。这是系统自动生成的演示文章。编辑或者删除它， 
+        
+      
+    
+    </summary>
+    
+    
+      <category term="创作类" scheme="https://www.imalun.com/categories/%E5%88%9B%E4%BD%9C%E7%B1%BB/"/>
+    
+    
+      <category term="hello world" scheme="https://www.imalun.com/tags/hello-world/"/>
+    
+  </entry>
+  
+</feed>
