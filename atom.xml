@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>白云苍狗</title>
+  <title>挨踢日常</title>
   
-  <subtitle>白云苍狗的小站</subtitle>
+  <subtitle>挨踢日常的小站</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://www.imalun.com/"/>
+  <link href="https://kryszna.github.io/"/>
   <updated>2022-11-25T10:15:31.789Z</updated>
-  <id>https://www.imalun.com/</id>
+  <id>https://kryszna.github.io/</id>
   
   <author>
-    <name>白云苍狗</name>
+    <name>挨踢日常</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello Word</title>
-    <link href="https://www.imalun.com/helloword/"/>
-    <id>https://www.imalun.com/helloword/</id>
+    <link href="helloword/"/>
+    <id>helloword/</id>
     <published>2019-11-19T02:16:09.000Z</published>
     <updated>2022-11-25T10:15:31.789Z</updated>
     
@@ -36,10 +36,10 @@
     </summary>
     
     
-      <category term="创作类" scheme="https://www.imalun.com/categories/%E5%88%9B%E4%BD%9C%E7%B1%BB/"/>
+      <category term="创作类" scheme="https:/kryszna.github.io/categories/%E5%88%9B%E4%BD%9C%E7%B1%BB/"/>
     
     
-      <category term="hello world" scheme="https://www.imalun.com/tags/hello-world/"/>
+      <category term="hello world" scheme="https:/kryszna.github.io/tags/hello-world/"/>
     
   </entry>
   
