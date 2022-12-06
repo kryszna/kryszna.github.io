@@ -5,9 +5,9 @@
   <subtitle>挨踢日常的小站</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://www.imalun.com/"/>
-  <updated>2022-11-25T10:15:31.789Z</updated>
-  <id>https://www.imalun.com/</id>
+  <link href="https://kryszna.github.io/"/>
+  <updated>2022-11-29T04:06:24.872Z</updated>
+  <id>https://kryszna.github.io/</id>
   
   <author>
     <name>挨踢日常</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hello Word</title>
-    <link href="https://www.imalun.com/helloword/"/>
-    <id>https://www.imalun.com/helloword/</id>
+    <link href="https://kryszna.github.io/helloword/"/>
+    <id>https://kryszna.github.io/helloword/</id>
     <published>2019-11-19T02:16:09.000Z</published>
-    <updated>2022-11-25T10:15:31.789Z</updated>
+    <updated>2022-11-29T04:06:24.872Z</updated>
     
     <summary type="html">
     
@@ -29,17 +29,17 @@
       
         
         
-          &lt;p&gt;欢迎使用Hexo。这是系统自动生成的演示文章。编辑或者删除它， 
+          &lt;p&gt;欢迎使用Hexo。这是系统自动生成的演示文章。编辑或者删除它，  然后开始您的博客！&lt;br&gt;欢迎使用Hexo。这是系统自动生成的演示文章。编辑或者删除它，  然后开始您的博客！&lt;br&gt;欢迎使用Hexo。这是系统自动生成的演示文章。编辑或者删除它， 
         
       
     
     </summary>
     
     
-      <category term="创作类" scheme="https://www.imalun.com/categories/%E5%88%9B%E4%BD%9C%E7%B1%BB/"/>
+      <category term="创作类" scheme="https://kryszna.github.io/categories/%E5%88%9B%E4%BD%9C%E7%B1%BB/"/>
     
     
-      <category term="hello world" scheme="https://www.imalun.com/tags/hello-world/"/>
+      <category term="hello world" scheme="https://kryszna.github.io/tags/hello-world/"/>
     
   </entry>
   
